@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size:30px;">お問い合わせはこちら :</strong>
-  <a href="https://ai-manabu.com/contact" style="font-size:30px;">https://ai-manabu.com/contact</a>
+  <strong style="font-size:30px;">お問い合わせはこちら : inamori.ryusei.q4[atmark]dc.tohoku.ac.jp</strong>  <br>※ [atmark]を@に変えてください。
 </p>
 
 DICOM形式の医療画像を匿名化するツールを開発しました。医療機関に技術者がいない場合等に、匿名化処理を効率よく行えるツールになると思いますので、ぜひご活用ください。
