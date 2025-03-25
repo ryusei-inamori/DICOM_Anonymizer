@@ -47,5 +47,5 @@ DICOM形式の医用画像を匿名化するツール「DICOM Anonymizer」を�
 
 ## 使い方はこちら
 
-以下のリンクに、使い方の説明を記載しています。
+以下のリンクに、使い方の説明を記載しています。<br>
 https://evanescent-rodent-685.notion.site/DICOM-1c06625f416b806ba698dada005d0676
