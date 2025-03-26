@@ -27,13 +27,13 @@ DICOM形式の医用画像を匿名化するツール「DICOM Anonymizer」を�
 
 | OS | ダウンロードリンク |
 |----|-------------------|
-| Mac | [DICOM_Anonymizer.zip](https://github.com/ryusei-inamori/DICOM_Anonymizer/releases/download/v1.0.0/DICOM_Anonymizer.zip) |
-| Windows | [DICOM_Anonymizer.exe](https://github.com/ryusei-inamori/DICOM_Anonymizer/releases/download/v1.0.0/DICOM_Anonymizer.exe) |
+| Mac | [DICOM_Anonymizer.zip](https://github.com/ryusei-inamori/DICOM_Anonymizer/releases/download/v2.0.0/DICOM_Anonymizer.zip) |
+| Windows | [DICOM_Anonymizer.exe](https://github.com/ryusei-inamori/DICOM_Anonymizer/releases/download/v2.0.0/DICOM_Anonymizer.exe) |
 
 ## 機能について
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/36fdd630-ff45-4ebb-a0b4-82ac38e78f7c" width="800">
+  <img src="https://github.com/user-attachments/assets/cc3983b7-3f8f-4373-bc73-2750dcc4c754" width="800">
 </p>
 
 ツールを起動すると、上図のようなUIが表示されます。
